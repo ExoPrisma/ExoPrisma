@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the system control UI for McGill Robotics
+Currently working on the system control UI for McGill Robotics
 
 
 ## 🌐 Socials:
